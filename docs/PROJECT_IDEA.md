@@ -6,7 +6,7 @@
 Write a short and clear title for your project.
 
 Example:  
-`Can Lifestyle Patterns Help Explain Obesity Risk?`
+`The Sleep Factor`
 
 ---
 
@@ -16,7 +16,7 @@ What question do you want to investigate?
 
 **Research Question:**
 
-> Write your main question here.
+> Can different amounts of sleep affect mental health?
 
 Example:
 
@@ -38,7 +38,7 @@ Think about:
 
 Write 2–4 sentences here.
 
----
+In today’s day and age, teenagers struggle with a number of things such as homework, school, part-time jobs, relationships, and more. All of these factors have the potential to affect a teen’s mental health. Another factor, the amount of sleep a teen gets per night, also has a large role in both their mental and physical health. I chose this project and believe that it is worth studying because learning how to solve mental health problems is getting increasingly more and more important. 
 
 ## 4. Dataset
 
