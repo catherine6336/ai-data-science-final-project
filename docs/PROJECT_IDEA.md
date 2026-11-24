@@ -42,15 +42,15 @@ In today’s day and age, teenagers struggle with a number of things such as hom
 
 ## 4. Dataset
 
-**Dataset Name:**  
+**Dataset Name:**  2023 Youth Risk Behavior Surveillance System National dataset
 
-**Dataset Source:**  
+**Dataset Source:**  CDC
 
-**Dataset Link:**  
+**Dataset Link:**  https://www.cdc.gov/yrbs/data/index.html 
 
 **What does the dataset contain?**
 
-Write 2–4 sentences describing the data.
+The dataset contains 20103 rows and 156 columns. Most of the columns contain answers to specific questions. There are several missing values in ceratin columns. The target variables can be found in columns ------
 
 Example:
 
@@ -65,9 +65,9 @@ Example:
 
 List 2–4 questions you want to answer.
 
-1.  
-2.  
-3.  
+1.  Can the number of hours of sleep help predict mental health?
+2.  Do other factors, such as screen time and bullying also affect mental health?
+3.  Out of all these factors, which seem to be most related to mental health?
 4.  
 
 Examples:
@@ -83,15 +83,15 @@ Examples:
 
 Check the methods you expect to use.
 
-- [ ] Data cleaning
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Data visualization
+- [✓] Data cleaning
+- [✓] Exploratory Data Analysis (EDA)
+- [✓] Data visualization
 - [ ] Descriptive statistics
-- [ ] Correlation analysis
+- [✓] Correlation analysis
 - [ ] Classification
-- [ ] Regression
-- [ ] Machine learning
-- [ ] Deep learning
+- [✓] Regression
+- [✓] Machine learning
+- [✓] Deep learning
 - [ ] Other:
 
 **Main tools I expect to use:**
@@ -115,11 +115,11 @@ Complete this section if your project uses machine learning.
 
 **Models I may try:**
 
-- [ ] Logistic Regression
+- [✓] Logistic Regression
 - [ ] Decision Tree
 - [ ] K-Nearest Neighbors
-- [ ] Random Forest
-- [ ] Linear Regression
+- [✓] Random Forest
+- [✓] Linear Regression
 - [ ] Neural Network
 - [ ] Other:
 
@@ -147,9 +147,9 @@ Examples:
 
 **Metrics I plan to use:**
 
-1.  
-2.  
-3.  
+1.  Acurracy
+2.  Precision
+3.  R²
 
 ---
 
@@ -162,7 +162,7 @@ It is okay if your prediction turns out to be wrong.
 **My Prediction / Hypothesis:**
 
 Write 2–4 sentences here.
-
+I expect to discover that sleep does have a strong relationship with mental health. Out of all the factors I plan to test, sleep will have the strongest relation out of all of them. 
 ---
 
 ## 10. Possible Challenges
@@ -180,9 +180,9 @@ Examples:
 
 **Possible Challenges:**
 
-1.  
-2.  
-3.  
+1.  Missing data
+2.  Model overfitting
+3.  Difficult features
 
 ---
 
@@ -190,16 +190,16 @@ Examples:
 
 By the end of the project, I plan to create:
 
-- [ ] Clean dataset or documented data source
-- [ ] Jupyter Notebook
-- [ ] Data visualizations
-- [ ] Data analysis
-- [ ] Machine learning model
-- [ ] Model evaluation
-- [ ] README.md
-- [ ] DATA_DOCUMENTATION.md
-- [ ] Final report
-- [ ] Final presentation
+- [✓] Clean dataset or documented data source
+- [✓] Jupyter Notebook
+- [✓] Data visualizations
+- [✓] Data analysis
+- [✓] Machine learning model
+- [✓] Model evaluation
+- [✓] README.md
+- [✓] DATA_DOCUMENTATION.md
+- [✓] Final report
+- [✓] Final presentation
 
 ---
 
