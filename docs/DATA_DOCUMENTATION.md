@@ -2,17 +2,17 @@
 
 ## 1. Dataset Name
 
-**Dataset Name:**  
+**Dataset Name:**  2023 ASCII 
 
 ---
 
 ## 2. Data Source
 
-**Organization / Website:**  
+**Organization / Website:**  CDC
 
-**Dataset URL:**  
+**Dataset URL:**  https://www.cdc.gov/yrbs/files/2023/XXH2023_YRBS_Data.dat
 
-**Date Accessed:**  
+**Date Accessed:**  9/2/2026
 
 Example:
 
@@ -29,6 +29,7 @@ Date Accessed: 2026-09-12
 Explain why this dataset is useful for your project.
 
 Write 2–4 sentences.
+This data set is useful for my project because it has many rows and many questions that pertain to the topic I'd like to learn about. For example, it has questions about average amount of sleep (in hours), average screentime (in hours), mental health (on a scale of 1-10), etc. 
 
 ---
 
@@ -42,11 +43,19 @@ Write 2–4 sentences.
 | Target variable | |
 | Main feature types | Numerical / Categorical / Image / Text / Other |
 
+| Item | Description |
+|---|---|
+| Number of rows | 20103 |
+| Number of columns | 156 |
+| File format | CSV |
+| Target variable | Q84 |
+| Main feature types | Numerical / Categorical / Image / Text / Other | I think Numerical
+
 ---
 
 ## 5. What Does One Row Represent?
 
-Explain what one record in the dataset represents.
+Each row in the dataset represents one person's response to the survey.
 
 Example:
 
@@ -60,10 +69,9 @@ Describe the most important columns.
 
 | Variable | Meaning | Type | Example |
 |---|---|---|---|
-| age | Age of the person | Numerical | 17 |
-| physical_activity | Level of physical activity | Numerical | 2 |
-| transportation | Main transportation method | Categorical | Walking |
-| target | Value to predict | Categorical | Normal Weight |
+| sleep | Hours of sleep | Numerical | 5 |
+| health | mental health rating on a scale from 1-5 | Numerical | 2 |
+| screen_time | Amount of social media use on a scale from 1-8 | Numerical | 6 |
 
 Add or remove rows as needed.
 
@@ -73,9 +81,9 @@ Add or remove rows as needed.
 
 Complete this section if your project predicts something.
 
-**Target Variable:**  
+**Target Variable:**  Q84
 
-**What does it represent?**
+**What does it represent?** In the dataset, Q84 represents a response in the survey to the question about mental health: "During the past 30 days, how often was your mental health not good?" The answers and possible values range from 1-5, where 1 means "Never" and 5 means "Always."
 
 Write a short explanation.
 
@@ -93,7 +101,7 @@ Write a short explanation.
 
 Are there missing values?
 
-- [ ] Yes
+- [✓] Yes
 - [ ] No
 - [ ] I have not checked yet
 
@@ -106,7 +114,7 @@ If yes, explain:
 Are there duplicate records?
 
 - [ ] Yes
-- [ ] No
+- [✓] No
 - [ ] I have not checked yet
 
 ---
@@ -124,7 +132,7 @@ Examples:
 
 **Notes:**
 
----
+Didn't find any. 
 
 ## 9. Data Cleaning
 
