@@ -50,7 +50,7 @@ In today’s day and age, teenagers struggle with a number of things such as hom
 
 **What does the dataset contain?**
 
-The dataset contains 20103 rows and 156 columns. Most of the columns contain answers to specific questions. There are several missing values in ceratin columns. The target variables can be found in columns ------
+The dataset contains 20103 rows and 156 columns. Most of the columns contain answers to specific questions. There are several missing values in ceratin columns. The target variables can be found in columns Q2,	Q3,	Q24,	Q25, Q26,	Q27,	Q28,	Q29,	Q30,	Q76,	Q80,	Q84,	Q85.
 
 Example:
 
